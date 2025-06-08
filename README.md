@@ -1,2 +1,3 @@
 # TriFlowWeb
-TriFlow was a 2021 ISU gamejam singeplayer project I made with my friend in Python. This is mostly same feature wise rebuild in JS. No real backend because deploying on Github Pages so the leadboard is literally a google sheet.
+TriFlow was a 2021 ISU Game Jam project built in Python Arcade library with my friend.
+This is a near 1 to 1 JS Phaser that adds a multiplayer leadboard using a google sheet since github pages doesn't allow a true backend.
